@@ -10,4 +10,5 @@
 | [韩天峰（Rango）](http://rango.swoole.com/)   | http://rango.swoole.com/feed/ | Swoole 开源框架创始人、PECL 开发组成员                |
 | [信海龙的博客](http://www.bo56.com/)           | http://www.bo56.com/feed/     | 淘宝技术专家                                   |
 | [Lancelot（李丹阳)](http://www.catplanet.me) | 暂无                            | Swoole内核开发者、CatSystem创始人                 |
+| [netkiller的 PHP 手札](http://netkiller.github.io/php/index.html) | 暂无                            | 陈景峯，《Netkiller系列手札》的作者                   |
 
